@@ -1,1 +1,0 @@
-Upload index.html to GitHub and enable GitHub Pages.
