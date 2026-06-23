@@ -1,1 +1,0 @@
-MAGIC - GitHub Pages build. Upload all files to your repository and enable GitHub Pages.
