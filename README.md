@@ -1,1 +1,0 @@
-MAGIC v2 with down/crouch button.
